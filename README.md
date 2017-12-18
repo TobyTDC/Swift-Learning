@@ -2,4 +2,4 @@
 
 The whole learning path with Team Treehouse
 
-teamtreehouse.com
+<a href = "teamtreehouse.com">Team Treehouse</a>
